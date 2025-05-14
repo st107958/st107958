@@ -1,8 +1,8 @@
-### Привет, я Аня!
+##### Привет, я Аня!
 Я изучаю Machine learning  
 Программирую на Python и C++
 
-### Мои пет-проекты:
+##### Мои пет-проекты:
 
 <!--
 **st107958/st107958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
