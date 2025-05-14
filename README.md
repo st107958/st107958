@@ -1,5 +1,5 @@
 # Привет, я Аня!
-Я изучаю Machine learning
+Я изучаю Machine learning  
 Программирую на Python и C++
 
 # Мои пет-проекты:
