@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет, я Аня!
 
 <!--
 **st107958/st107958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
