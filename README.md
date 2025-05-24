@@ -3,6 +3,12 @@
 Программирую на `Python` и `C++`
 
 #### Мои пет-проекты:
+- Нейросеть для идентификации говорящего (архитектура: RNN, точность: 0.81)  
+- Нейросеть для посимвольной генерацией поэм (архитектура: RNN, поддерживает регулировку параметра "температура")   
+- Кредитный скоринг: ML-модель оценки заёмщиков (метод: RandomForest, точность: 0.87, Dataset: "Give Me Some Credit" (kaggle))  
+- Классификация сортов фасоли (метод: RandomForest, точность: 0.96, Dataset: "Dry Bean Dataset" (kaggle))
+- Приложение для решения некоторых задач численных методов (Numerical Methods Calculator)  
+- Telegram-bot   
 
 <!--
 **st107958/st107958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
